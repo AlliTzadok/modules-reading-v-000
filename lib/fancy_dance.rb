@@ -1,6 +1,7 @@
 module FancyDance
+  
   module InstanceMethods
-
+    #define all instance methods that we intend to use
     def twirl
       "I'm twirling!"
     end
