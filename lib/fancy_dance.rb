@@ -6,7 +6,7 @@ module FancyDance
       "I'm twirling!"
     end
 
-    def jumping
+    def jump
       "Look how high I'm jumping!"
     end
 
