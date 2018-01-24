@@ -20,7 +20,7 @@ module FancyDance
   end
   #define a module for Class methods
   module ClassMethods
-    #define metadata or any class methods 
+    #define metadata or any class methods
     def metadata
       "This class produces objects that love to dance."
     end
